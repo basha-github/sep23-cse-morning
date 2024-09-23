@@ -1,16 +1,10 @@
-
 class Student{
-
 	private int rollNo;
 	private String name;
 	private String dept;
 	private String collegeName;
 	private String phoneNo;
-	
-	
-	
-	
-	
+
 	public int getRollNo() {
 		return rollNo;
 	}
@@ -72,13 +66,7 @@ class Student{
 		this.rollNo = rollNo;
 		
 	}
-	
-	
-	
-	
-	
-	
-	
+
 }
 
 
@@ -92,12 +80,6 @@ public class ClassDemo {
 		ramu.setRollNo(567);
 		
 	System.out.println(ramu.getDept());	
-		
-		
-		
-		
-		
-		
 		
 	}
 
